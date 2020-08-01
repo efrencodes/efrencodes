@@ -14,6 +14,6 @@
 - 🌱 I’m currently learning **Python** and **Digital Ocean**.
 - ⚙️ I use daily: `.vue`, `.sass`, `.html`, `.node`, `.xd`.
 - 🎮 I like to play video games
-- 📫 Reach me: [twitter.com/_efrenmartinez_](https://twitter.com/_efrenmartinez_)
+- 📫 Reach me: [twitter.com/efrenmartinezmx](https://twitter.com/efrenmartinezmx)
 
 ---
