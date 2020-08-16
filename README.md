@@ -7,7 +7,7 @@
   <a href="https://dev.to/efrenmartinez">DEV</a>
 </p>
 
-#### I'm a Developer Frontend Vue working in Queretaro, Mexico.
+#### I'm a Frontend Engineer Vue working in Queretaro, Mexico.
 
 - 🏢 I'm currently working on [Marciano Studio](https://marciano.com.mx/) at Developer Frontend Vue.
 - 🚀 I´m [Platzi Master](https://platzi.com/blog/que-es-platzi-master/).
