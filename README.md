@@ -9,7 +9,6 @@
 
 #### I'm a Frontend Engineer Vue working in Queretaro, Mexico.
 
-- 🏢 I'm currently working on [Marciano Studio](https://marciano.com.mx/) at Developer Frontend Vue.
 - 🚀 I´m [Platzi Master](https://platzi.com/blog/que-es-platzi-master/).
 - 🌱 I’m currently learning **Flutter**.
 - ⚙️ I use daily: `.vue`, `.sass`, `.html`, `.node`, `.xd`.
