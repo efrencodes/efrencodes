@@ -9,7 +9,7 @@
 
 #### I'm a Frontend Engineer Vue working in Queretaro, Mexico.
 
-- 🚀 I´m [Platzi Master](https://platzi.com/blog/que-es-platzi-master/).
+- 🚀 I´m [Platzi Master Program](https://platzi.com/blog/que-es-platzi-master/).
 - 🌱 I’m currently learning **Flutter**.
 - ⚙️ I use daily: `.vue`, `.sass`, `.html`, `.node`, `.xd`.
 - 🎮 I like to play video games, watch series TVs.
