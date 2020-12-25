@@ -12,6 +12,3 @@
 - ⚙️ I use daily: `.vue`, `.sass`, `.html`, `.node`, `.xd`.
 - 🎮 I like to play video games, watch series TVs.
 - 📫 Reach me: [twitter.com/efrenmartinezmx](https://twitter.com/efrenmartinezmx)
-
-
-[![efrenmartinez wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=efrenmartinez)](https://github.com/anuraghazra/github-readme-stats)
