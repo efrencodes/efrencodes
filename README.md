@@ -14,9 +14,4 @@
 - 📫 Reach me: [twitter.com/efrenmartinezmx](https://twitter.com/efrenmartinezmx)
 
 
-#### Next projects in 2021 
-- 💻 Write blog about programming.
-- 🕹 Write blog about videogames.
-- 🎮 Develop a video game.
-- 🚀 Build a small robot.
----
+[![efrenmartinez wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=efrenmartinez)](https://github.com/anuraghazra/github-readme-stats)
