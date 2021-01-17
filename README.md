@@ -1,14 +1,13 @@
-<h3 align="center">👋 Hi, I'm Efren Martinez.</h3>
+# 👋 Hi, I'm Efren Martinez.
 
-<p align="center">
-  <a href="https://efrenmartinez.dev">Website</a> •
-  <a href="https://twitter.com/efrenmartinezmx">Twitter</a> •
-  <a href="https://www.linkedin.com/in/efren-martinez-rodriguez/">Linkedin</a> •
-</p>
+Hi there, I’m Efren. Currently, I am based in Queretaro, working as Front-End Developer at Marciano Studio.
 
-#### I'm a Frontend Engineer Vue working in Queretaro, Mexico.
+## My Articles
+- [My study plan for 2021](https://www.linkedin.com/pulse/my-study-plan-2021-efr%C3%A9n-mart%C3%ADnez-rodr%C3%ADguez?trk=public_profile_article_view)
+- [Primeros pasos con NextJS](https://efrenmartinez.dev/blog/primeros-pasos-con-next-js)
 
-- 🚀 I´m [Platzi Master Program](https://platzi.com/blog/que-es-platzi-master/).
-- ⚙️ I use daily: `.vue`, `.sass`, `.html`, `.node`, `.xd`.
-- 🎮 I like to play video games, watch series TVs.
-- 📫 Reach me: [twitter.com/efrenmartinezmx](https://twitter.com/efrenmartinezmx)
+## Get in Touch
+
+- [twitter.com/efrenmartinezmx](https://twitter.com/efrenmartinezmx)
+- [linkedin.com/in/efren-martinez-rodriguez/](https://www.linkedin.com/in/efren-martinez-rodriguez/)
+- [efrenmartinez.dev](https://efrenmartinez.dev)
