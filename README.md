@@ -1,10 +1,16 @@
 # 👋 Hi, I'm Efren Martinez.
 
-Hi there, I’m Efren. Currently, I am based in Queretaro, working as Front-End Developer at Marciano Studio.
+## I am Frontend Enginner based in Queretaro, Mexico. 
 
-## My Articles
-- [My study plan for 2021](https://www.linkedin.com/pulse/my-study-plan-2021-efr%C3%A9n-mart%C3%ADnez-rodr%C3%ADguez?trk=public_profile_article_view)
-- [Primeros pasos con NextJS](https://efrenmartinez.dev/blog/primeros-pasos-con-next-js)
+Work at Marciano Studio. I have more 5 years building aplications as:
+
+    👉 Landing Pages.
+    👉 Ecommerce.
+    👉 Blogs Sites.
+    👉 Web applications.
+    👉 CRM.
+
+I am focused on building Web applications with JavaScript, specifically VueJS and Quasar Framework. I love VueJS 💚.
 
 ## Get in Touch
 
