@@ -14,6 +14,5 @@ I am focused on building Web applications with JavaScript, specifically VueJS an
 
 ## Get in Touch
 
-- [twitter.com/efrenmartinezmx](https://twitter.com/efrenmartinezmx)
 - [linkedin.com/in/efren-martinez-rodriguez/](https://www.linkedin.com/in/efren-martinez-rodriguez/)
 - [efrenmartinez.dev](https://efrenmartinez.dev)
