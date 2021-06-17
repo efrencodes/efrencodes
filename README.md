@@ -1,4 +1,4 @@
-[![GitHub Header efrenmartinez](https://raw.githubusercontent.com/efrenmartinez/efrenmartinez/main/assets/efrenmartinez.jpg)](http://www.efrenmartinez.dev/)
+[![GitHub Header efrenmartinez](https://github.com/efrenmartinez/efrenmartinez/blob/master/assets/efrenmartinez.jpg)](http://www.efrenmartinez.dev/)
 # Hi, I'm Efren Martinez 👋
 
 ## I am Frontend Enginner working in Queretaro, Mexico
