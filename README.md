@@ -3,6 +3,18 @@
 
 ## I am Frontend Enginner working in Queretaro, Mexico
 
+<br>
+<br>
+
+- 🔭 I’m currently working on some of my side projects
+- 💬 Ask me about JavaScript, HTML/CSS and VueJS
+- 🧠 I am currently learning ReactJS
+- ⚡ Fun fact: I love to draw, play videogames and eat tacos 😻
+- 📝[RESUME](https://efrenmartinez.dev//efren_martinez_rodriguez.pdf)
+
+<br>
+<br>
+
 Specialized in the ecosystem of VueJS, JavaScript (ES6), HTML, CSS and Responsive Design.
 
 I have more 5 years building aplications as:
