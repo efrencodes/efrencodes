@@ -1,4 +1,4 @@
-[![GitHub Header efrenmartinez](https://github.com/efrenmartinez/efrenmartinez/blob/master/assets/efrenmartinez.jpg)](http://www.efrenmartinez.dev/)
+[![GitHub Header @efrenmartinez](https://github.com/efrenmartinez/efrenmartinez/blob/master/assets/linkedin.png)](http://www.efrenmartinez.dev/)
 # Hi, I'm Efren Martinez 👋
 
 ## I am Frontend Enginner working in Queretaro, Mexico
@@ -6,18 +6,16 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on some of my side projects
-- 💬 Ask me about JavaScript, HTML/CSS and VueJS
-- 🧠 I am currently learning ReactJS
-- ⚡ Fun fact: I love to draw, play videogames and eat tacos 😻
+- 🔭 I’m currently working on some of my side projects.
+- 💬 Ask me about JavaScript, HTML/CSS and VueJS.
+- 🧠 I am currently learning ReactJS.
+- ⚡ Fun fact: I love to draw, play videogames and eat tacos 😻.
 - 📝[RESUME](https://efrenmartinez.dev//efren_martinez_rodriguez.pdf)
 
 <br>
 <br>
 
 Specialized in the ecosystem of VueJS, JavaScript (ES6), HTML, CSS and Responsive Design.
-
-I have more 5 years building aplications as:
 
 - 👉 Ecommerce.
     <details>
@@ -58,7 +56,6 @@ I have more 5 years building aplications as:
     </li>
     </ul>
     </details>
-- 👉 Blogs Sites.
 
 
 <br>
