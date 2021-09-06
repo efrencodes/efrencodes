@@ -16,46 +16,65 @@
 
 Specialized in the ecosystem of VueJS, JavaScript (ES6), HTML, CSS and Responsive Design.
 
-- 👉 Ecommerce.
-    <details>
-    <summary>Click for more projects</summary>
-    <ul>
-    <li>
-    <a href="https://ordiexpress.com/" target="_blank">ordiexpress.com</a>
-    </li>
-    <li>
-    <a href="https://store.bticino.com.mx/" target="_blank">store.bticino.com.mx</a>
-    </li>
-    </ul>
-    </details>
-- 👉 Web applications.
-    <details>
-    <summary>Click for more projects</summary>
-    <ul>
-    <li>
-    <a href="https://www.suzuki.com.mx/autos" target="_blank">suzuki.com.mx/autos</a>
-    </li>
-    </ul>
-    </details>
-- 👉 CRM.
-    <details>
-    <summary>Click for more projects</summary>
-    <ul>
-    <li>
-    <a href="https://bts-adm.netnet.mx/#/login" target="_blank">bts-adm.netnet.mx/#/login</a>
-    </li>
-    </ul>
-    </details>
-- 👉 Landing Pages.
-    <details>
-    <summary>Click for more projects</summary>
-    <ul>
-    <li>
-    <a href="https://efrenmartinez.dev" target="_blank">efrenmartinez.dev</a>
-    </li>
-    </ul>
-    </details>
+## Some great projects I worked on
 
+### 👉 Ecommerce.
+<p align="center">
+    <a
+        href="https://www.ordiexpress.com/"
+        target="_blank">
+            <img
+                src="https://res.cloudinary.com/efrenmartinez/image/upload/v1630000496/efrenmartinez.dev/projects/project_ordiexpress.png"
+                alt="Ecommerce Ordiexpress"
+                width="400"
+                height="250"
+            />
+    </a>
+    <a
+        href="https://store.bticino.com.mx/"
+        target="_blank">
+            <img
+                src="https://res.cloudinary.com/efrenmartinez/image/upload/v1630000496/efrenmartinez.dev/projects/project_bticino_store.png"
+                alt="Ecommerce Bticino México"
+                width="400"
+                height="250"
+            />
+    </a>
+</p>
+<br>
+<br>
+
+### 👉 Web applications.
+
+<p align="center">
+    <a
+        href="https://www.suzuki.com.mx/autos"
+        target="_blank">
+            <img
+                src="https://res.cloudinary.com/efrenmartinez/image/upload/v1630000497/efrenmartinez.dev/projects/project_suzuki.png"
+                alt="Suzuki Mexico"
+                width="400"
+                height="250"
+            />
+    </a>
+</p>
+<br>
+<br>
+
+###  👉 Landing Pages.
+
+<p align="center">
+    <a
+        href="https://efrenmartinez.dev"
+        target="_blank">
+            <img
+                src="https://res.cloudinary.com/efrenmartinez/image/upload/v1630004019/efrenmartinez.dev/thumbs_seo.png"
+                alt="Portfolio web"
+                width="400"
+                height="250"
+            />
+    </a>
+</p>
 
 <br>
 <br>
