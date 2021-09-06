@@ -1,4 +1,4 @@
-[![GitHub Header @efrenmartinez](https://github.com/efrenmartinez/efrenmartinez/blob/master/assets/linkedin.png)](http://www.efrenmartinez.dev/)
+[![GitHub Header @efrenmartinez](https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes.png)](http://www.efrenmartinez.dev/)
 # Hi, I'm Efren Martinez 👋
 
 ## I am Frontend Enginner working in Queretaro, Mexico
@@ -10,7 +10,6 @@
 - 💬 Ask me about JavaScript, HTML/CSS and VueJS.
 - 🧠 I am currently learning ReactJS.
 - ⚡ Fun fact: I love to draw, play videogames and eat tacos 😻.
-- 📝[RESUME](https://efrenmartinez.dev//efren_martinez_rodriguez.pdf)
 
 <br>
 <br>
@@ -91,4 +90,4 @@ Specialized in the ecosystem of VueJS, JavaScript (ES6), HTML, CSS and Responsiv
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrenmartinez&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrencodes&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
