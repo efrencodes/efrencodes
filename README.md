@@ -1,7 +1,8 @@
 [![GitHub Header @efrenmartinez](https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes.png)](http://www.efrenmartinez.dev/)
-# Hi, I'm Efren Martinez 👋
 
-## I am Frontend Enginner working in Queretaro, Mexico
+# Hi, I'm Efrén Martínez 👋
+
+## I am Frontend Developer working in Queretaro, Mexico
 
 <br>
 <br>
@@ -19,6 +20,7 @@ Specialized in the ecosystem of VueJS, JavaScript (ES6), HTML, CSS and Responsiv
 ## Some great projects I worked on
 
 ### 👉 Ecommerce.
+
 <p align="center">
     <a
         href="https://www.ordiexpress.com/"
@@ -61,7 +63,7 @@ Specialized in the ecosystem of VueJS, JavaScript (ES6), HTML, CSS and Responsiv
 <br>
 <br>
 
-###  👉 Landing Pages.
+### 👉 Landing Pages.
 
 <p align="center">
     <a
@@ -80,6 +82,7 @@ Specialized in the ecosystem of VueJS, JavaScript (ES6), HTML, CSS and Responsiv
 <br>
 
 ## 🛠️ Technologies and Tools I use
+
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -102,7 +105,7 @@ Specialized in the ecosystem of VueJS, JavaScript (ES6), HTML, CSS and Responsiv
 
 ## 📫 How to reach me?
 
-- ✨ [developer.emartinez@gmail.com](mailto:developer.emartinez@gmail.com)
+- ✨ [hello@efrenmartinez.dev](mailto:hello@efrenmartinez.dev)
 - ✨ [linkedin.com/in/efren-martinez-rodriguez](https://www.linkedin.com/in/efren-martinez-rodriguez/)
 - ✨ [efrenmartinez.dev](https://efrenmartinez.dev)
 
