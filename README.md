@@ -26,20 +26,20 @@ Specialized in the ecosystem of VueJS, JavaScript (ES6), HTML, CSS and Responsiv
         href="https://www.ordiexpress.com/"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrenmartinez/image/upload/v1630000496/efrenmartinez.dev/projects/project_ordiexpress.png"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1630000496/efrenmartinez.dev/projects/project_ordiexpress.png"
                 alt="Ecommerce Ordiexpress"
-                width="400"
-                height="250"
+                width="420"
+                height="280"
             />
     </a>
     <a
         href="https://store.bticino.com.mx/"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrenmartinez/image/upload/v1630000496/efrenmartinez.dev/projects/project_bticino_store.png"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1630000496/efrenmartinez.dev/projects/project_bticino_store.png"
                 alt="Ecommerce Bticino México"
-                width="400"
-                height="250"
+                width="420"
+                height="280"
             />
     </a>
 </p>
@@ -53,10 +53,10 @@ Specialized in the ecosystem of VueJS, JavaScript (ES6), HTML, CSS and Responsiv
         href="https://www.suzuki.com.mx/autos"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrenmartinez/image/upload/v1630000497/efrenmartinez.dev/projects/project_suzuki.png"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1630000497/efrenmartinez.dev/projects/project_suzuki.png"
                 alt="Suzuki Mexico"
-                width="400"
-                height="250"
+                width="420"
+                height="280"
             />
     </a>
 </p>
@@ -70,10 +70,20 @@ Specialized in the ecosystem of VueJS, JavaScript (ES6), HTML, CSS and Responsiv
         href="https://efrenmartinez.dev"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrenmartinez/image/upload/v1630004019/efrenmartinez.dev/thumbs_seo.png"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1630004019/efrenmartinez.dev/thumbs_seo.png"
                 alt="Portfolio web"
-                width="400"
-                height="250"
+                width="420"
+                height="280"
+            />
+    </a>
+    <a
+        href="https://drcarlosservin.com"
+        target="_blank">
+            <img
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1632798913/efrenmartinez.dev/projects/project_dr-carlos-servin_givqny.png"
+                alt="Project - Dr Carlos Servin"
+                width="420"
+                height="280"
             />
     </a>
 </p>
