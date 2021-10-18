@@ -2,6 +2,8 @@
 
 ## Front End Engineer
 
+[![GitHub Header @efrenmartinez](https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes.png)](http://www.efrenmartinez.dev/)
+
 <br>
 <br>
 
@@ -50,7 +52,7 @@ Actualmente construyó productos y plataformas web específicamente con **VueJS*
         href="https://www.ordiexpress.com/"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1630000496/efrenmartinez.dev/projects/project_ordiexpress.png"
+                src="https://github.com/efrencodes/efrencodes/blob/master/assets/projects/project_ordiexpress.png"
                 alt="Ecommerce Ordiexpress"
                 width="420"
                 height="280"
@@ -60,7 +62,7 @@ Actualmente construyó productos y plataformas web específicamente con **VueJS*
         href="https://store.bticino.com.mx/"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1630000496/efrenmartinez.dev/projects/project_bticino_store.png"
+                src="https://github.com/efrencodes/efrencodes/blob/master/assets/projects/project_bticino_store.png"
                 alt="Ecommerce Bticino México"
                 width="420"
                 height="280"
@@ -77,7 +79,7 @@ Actualmente construyó productos y plataformas web específicamente con **VueJS*
         href="https://www.suzuki.com.mx/autos"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1630000497/efrenmartinez.dev/projects/project_suzuki.png"
+                src="https://github.com/efrencodes/efrencodes/blob/master/assets/projects/project_suzuki.png"
                 alt="Suzuki Mexico"
                 width="420"
                 height="280"
@@ -91,20 +93,10 @@ Actualmente construyó productos y plataformas web específicamente con **VueJS*
 
 <p align="center">
     <a
-        href="https://efrenmartinez.dev"
-        target="_blank">
-            <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1630004019/efrenmartinez.dev/thumbs_seo.png"
-                alt="Portfolio web"
-                width="420"
-                height="280"
-            />
-    </a>
-    <a
         href="https://drcarlosservin.com"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1632798913/efrenmartinez.dev/projects/project_dr-carlos-servin_givqny.png"
+                src="https://github.com/efrencodes/efrencodes/blob/master/assets/projects/project_dr_carlos_servin.png"
                 alt="Project - Dr Carlos Servin"
                 width="420"
                 height="280"
