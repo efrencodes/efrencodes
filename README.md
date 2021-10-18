@@ -1,9 +1,18 @@
-# Efrén Martínez | Frontend Developer
+# Efrén Martínez
+
+## Front End Engineer
 
 <br>
 <br>
 
-Hola ✋✋, soy Efrén Martínez, un Frontend Enginner de la Cuidad de Querétaro, México. Actualmente trabajó en OCC Mundial.
+Soy **Front End Engineer** de la ciudad de Querétaro, México.
+Trabajó en <a href="https://www.occ.com.mx/" target="_blank">OCC Mundial</a> como **Practitioner II - Frontend Developer**.
+
+Actualmente construyó productos y plataformas web específicamente con **VueJS** y **ReactJS**.
+
+## 🍻 Portafolio
+
+💓 [efrenmartinez.dev](https://efrenmartinez.dev)
 
 <br>
 <br>
@@ -30,7 +39,7 @@ Hola ✋✋, soy Efrén Martínez, un Frontend Enginner de la Cuidad de Queréta
 <br>
 <br>
 
-## Algunos proyectos en los que hé trabajado:
+## ✨ Algunos proyectos en los que hé trabajado:
 
 ### Proyectos GRANDES y pequeños.
 
@@ -111,9 +120,8 @@ Hola ✋✋, soy Efrén Martínez, un Frontend Enginner de la Cuidad de Queréta
 
 ## 📫 ¿Cómo contactarme?
 
-- ✨ [hello@efrenmartinez.dev](mailto:hello@efrenmartinez.dev)
+- ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
 - ✨ [linkedin.com/in/efren-martinez-rodriguez](https://www.linkedin.com/in/efren-martinez-rodriguez/)
-- ✨ [efrenmartinez.dev](https://efrenmartinez.dev)
 
 <br>
 <br>
