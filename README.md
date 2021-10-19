@@ -2,7 +2,7 @@
 
 ## Front End Engineer
 
-[![GitHub Header @efrenmartinez](https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes.png)](http://www.efrenmartinez.dev/)
+[![GitHub Header @efrenmartinez](https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes.png)](http://www.efrencodes.com/)
 
 <br>
 <br>
@@ -14,7 +14,7 @@ Actualmente construyó productos y plataformas web específicamente con **VueJS*
 
 ## 🍻 Portafolio
 
-💓 [https://efrencodes.com/](https://efrencodes.com/)
+💓 [https://www.efrencodes.com/](https://www.efrencodes.com/)
 
 <br>
 <br>
