@@ -1,25 +1,22 @@
-# Efrén Martínez
-
-## Front End Engineer
+## Efrén Martínez - Frontend Engineer
 
 [![GitHub Header @efrenmartinez](https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes.png)](http://www.efrencodes.com/)
 
 <br>
 <br>
 
-Soy **Front End Engineer** de la ciudad de Querétaro, México.
-Trabajó en <a href="https://www.occ.com.mx/" target="_blank">OCC Mundial</a> como **Practitioner II - Frontend Developer**.
+**I build things for the web**
 
-Actualmente construyó productos y plataformas web específicamente con **VueJS** y **ReactJS**.
+Hey, I'm Efren Martinez! I'm a **Frontend engineer** with experience in **#VueJS**, **#ReactJS** and much more. I work at [@OCC Mundial](https://www.occ.com.mx/").
 
-## 🍻 Portafolio
+## 💓 Portfolio web
 
-💓 [https://www.efrencodes.com/](https://www.efrencodes.com/)
+[www.efrencodes.com/](https://www.efrencodes.com/)
 
 <br>
 <br>
 
-## 🛠️ Tecnologías y herramientas que utilizo:
+## 🛠️ Technologies and tools I use
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -41,9 +38,9 @@ Actualmente construyó productos y plataformas web específicamente con **VueJS*
 <br>
 <br>
 
-## ✨ Algunos proyectos en los que hé trabajado:
+## ✨ Some projects I have worked on
 
-### Proyectos GRANDES y pequeños.
+### Projects BIG and small.
 
 ### 👉 Ecommerce.
 
@@ -72,7 +69,7 @@ Actualmente construyó productos y plataformas web específicamente con **VueJS*
 <br>
 <br>
 
-### 👉 Aplicaciones Web.
+### 👉 Web applications.
 
 <p align="center">
     <a
@@ -110,10 +107,11 @@ Actualmente construyó productos y plataformas web específicamente con **VueJS*
 <br>
 <br>
 
-## 📫 ¿Cómo contactarme?
+## 📫 How to contact me?
 
 - ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
-- ✨ [linkedin.com/in/efren-martinez-rodriguez](https://www.linkedin.com/in/efren-martinez-rodriguez/)
+- ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
+- ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
 
 <br>
 <br>
