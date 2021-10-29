@@ -7,7 +7,7 @@
 
 **I build things for the web**
 
-Hey!  I´m Efren Martinez, a **Frontend Engineer** with more than 5 years of experiencie.
+Hey!  I´m Efren Martinez 🇲🇽 , a **Frontend Engineer** with more than 5 years of experiencie.
 
 With experience in **VueJS** • **Quasar** • **ReactJS** • **NextJS** • **JavaScript** • **CSS** • NodeJS and much more.
 
