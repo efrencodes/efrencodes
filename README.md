@@ -7,7 +7,13 @@
 
 **I build things for the web**
 
-Hey, I'm Efren Martinez! I'm a **Frontend engineer** with experience in **#VueJS**, **#ReactJS** and much more. I work at [@OCC Mundial](https://www.occ.com.mx/").
+Hey!  I´m Efren Martinez, a **Frontend Engineer** with more than 5 years of experiencie.
+
+With experience in **VueJS** • **Quasar** • **ReactJS** • **NextJS** • **JavaScript** • **CSS** • NodeJS and much more.
+
+I worked on different projects as Ecommerce, web applications, landings pages, api´s.
+
+I am currently learning **English**, **GraphQL** and **TypeScript**.
 
 ## 💓 Portfolio web
 
@@ -112,7 +118,8 @@ Hey, I'm Efren Martinez! I'm a **Frontend engineer** with experience in **#VueJS
 - ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
 - ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
 - ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
-
+- ✨ [www.efrencodes.com](https://www.efrencodes.com/)
+- 
 <br>
 <br>
 
