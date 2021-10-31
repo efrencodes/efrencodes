@@ -1,4 +1,4 @@
-## Efrén Martínez - Frontend Engineer
+## Efren Martinez - Frontend Engineer
 
 [![GitHub Header @efrenmartinez](https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes.png)](http://www.efrencodes.com/)
 
@@ -7,9 +7,9 @@
 
 **I build things for the web**
 
-Hey!  I´m Efren Martinez 🇲🇽 , a **Frontend Engineer** with more than 5 years of experiencie.
+Hey! I´m Efren Martinez 🇲🇽 , a **Frontend Engineer** with more than 5 years of experiencie.
 
-With experience in **VueJS** • **Quasar** • **ReactJS** • **NextJS** • **JavaScript** • **CSS** • NodeJS and much more.
+With experience in **VueJS** • **Quasar** • **ReactJS** • **NextJS** • **JavaScript** • **CSS** • **NodeJS** and much more.
 
 I worked on different projects as Ecommerce, web applications, landings pages, api´s.
 
@@ -119,8 +119,8 @@ I am currently learning **English**, **GraphQL** and **TypeScript**.
 - ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
 - ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
 - ✨ [www.efrencodes.com](https://www.efrencodes.com/)
-- 
-<br>
-<br>
+
+  <br>
+  <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrencodes&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
