@@ -1,19 +1,19 @@
 ## Efren Martinez - Frontend Engineer
 
-[![GitHub Header @efrenmartinez](https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes.png)](http://www.efrencodes.com/)
+[![GitHub Header @efrenmartinez](https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes-v3.jpg)](http://www.efrencodes.com/)
 
 <br>
 <br>
 
 **I build things for the web**
 
-Hey! I´m Efren Martinez 🇲🇽 , a **Frontend Engineer** with more than 5 years of experiencie.
+Hey! I´m Efren Martinez 🇲🇽 a **Frontend Engineer** with more than 5 years of experiencie.
 
-With experience in **VueJS** • **Quasar** • **ReactJS** • **NextJS** • **JavaScript** • **CSS** • **NodeJS** and much more.
+With experience in 💚 **VueJS** **Quasar** • 💙 **ReactJS** • **NextJS** 💛 **JavaScript** • **CSS** • **NodeJS** and much more.
 
-I worked on different projects as Ecommerce, web applications, landings pages, api´s.
+I worked on different projects as Ecommerce, web applications, landings pages and api´s.
 
-I am currently learning **English**, **GraphQL** and **TypeScript**.
+I am currently learning **English**, **GraphQL** and **TypeScript** in Platzi.
 
 ## 💓 Portfolio web
 
