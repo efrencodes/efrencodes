@@ -1,6 +1,13 @@
 ## Efren Martinez - Frontend Engineer
 
-[![GitHub Header @efrenmartinez](https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes-v3.jpg)](http://www.efrencodes.com/)
+<p>
+    <img
+        src="https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes-v3.jpg"
+        alt="efrencodes"
+        width="100%"
+        height="300"
+    />
+</p>
 
 <br>
 <br>
