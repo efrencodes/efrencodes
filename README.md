@@ -1,4 +1,4 @@
-## Efren Martinez - Frontend Engineer
+## Hi there, I'm Efren Martinez. I'm Frontend Engineer
 
 <p>
     <img
@@ -20,7 +20,6 @@ With experience in 💚 **VueJS** **Quasar** • 💙 **ReactJS** • **NextJS**
 
 I worked on different projects as Ecommerce, web applications, landings pages and api´s.
 
-I am currently learning **English**, **GraphQL** and **TypeScript** in Platzi.
 
 ## 💓 Portfolio web
 
