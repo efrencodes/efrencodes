@@ -16,7 +16,7 @@
 
 Hey! I´m Efren Martinez,a **Frontend Engineer** in Queretaro, Mexico 🇲🇽  with more than 6 years of experiencie.
 
-With experience in 💚 **VueJS**, 💙 **Reactjs**, 💛 **JavaScript**.
+With experience in 💚 **Vue.js**, 💙 **React.js**, 💛 **JavaScript**.
 
 I worked on different projects as Ecommerce, web applications, landings pages and api´s.
 
