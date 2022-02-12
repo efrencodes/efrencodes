@@ -12,11 +12,11 @@
 <br>
 <br>
 
-**I build things for the web**
+**I build things for the web and drinking coffee** ☕
 
-Hey! I´m Efren Martinez 🇲🇽 a **Frontend Engineer** with more than 5 years of experiencie.
+Hey! I´m Efren Martinez,a **Frontend Engineer** in Queretaro, Mexico 🇲🇽  with more than 6 years of experiencie.
 
-With experience in 💚 **VueJS** **Quasar** • 💙 **ReactJS** • **NextJS** 💛 **JavaScript** • **CSS** • **NodeJS** and much more.
+With experience in 💚 **VueJS**, 💙 **Reactjs**, 💛 **JavaScript**.
 
 I worked on different projects as Ecommerce, web applications, landings pages and api´s.
 
@@ -50,9 +50,7 @@ I worked on different projects as Ecommerce, web applications, landings pages an
 <br>
 <br>
 
-## ✨ Some projects I have worked on
-
-### Projects BIG and small.
+## ✨These are some of the projects I have built or collaborated on.
 
 ### 👉 Ecommerce.
 
