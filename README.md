@@ -20,9 +20,12 @@ With experience in 💚 **Vue.js**, 💙 **React.js**, 💛 **JavaScript**.
 
 I worked on different projects as Ecommerce, web applications, landings pages and api´s.
 
-## 💓 Portfolio web
+## 📫 How to contact me?
 
-[www.efrencodes.com/](https://www.efrencodes.com/)
+- ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
+- ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
+- ✨ [www.efrencodes.com](https://www.efrencodes.com/)
+- ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
 
 <br>
 <br>
@@ -115,13 +118,6 @@ I worked on different projects as Ecommerce, web applications, landings pages an
 
 <br>
 <br>
-
-## 📫 How to contact me?
-
-- ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
-- ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
-- ✨ [www.efrencodes.com](https://www.efrencodes.com/)
-- ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
 
   <br>
   <br>
