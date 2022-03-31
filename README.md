@@ -14,7 +14,7 @@
 
 **I build things for the web and drinking coffee** ☕
 
-Hey! I´m Efren Martinez,a **Frontend Engineer** in Queretaro, Mexico 🇲🇽 with more than 6 years of experiencie.
+Hey! I´m Efren Martinez a **Frontend Engineer** in Queretaro, Mexico 🇲🇽 with more than 6 years of experiencie.
 
 With experience in 💚 **Vue.js**, 💙 **React.js**, 💛 **JavaScript**.
 
@@ -121,6 +121,7 @@ I worked on different projects as Ecommerce, web applications, landings pages an
 - ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
 - ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
 - ✨ [www.efrencodes.com](https://www.efrencodes.com/)
+- ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
 
   <br>
   <br>
