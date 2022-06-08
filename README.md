@@ -58,16 +58,6 @@ I worked on different projects as Ecommerce, web applications, landings pages an
 
 <p align="center">
     <a
-        href="https://www.ordiexpress.com/"
-        target="_blank">
-            <img
-                src="https://github.com/efrencodes/efrencodes/blob/master/assets/projects/project_ordiexpress.png"
-                alt="Ecommerce Ordiexpress"
-                width="420"
-                height="280"
-            />
-    </a>
-    <a
         href="https://store.bticino.com.mx/"
         target="_blank">
             <img
@@ -97,21 +87,6 @@ I worked on different projects as Ecommerce, web applications, landings pages an
 </p>
 <br>
 <br>
-
-### 👉 Landing Pages.
-
-<p align="center">
-    <a
-        href="https://drcarlosservin.com"
-        target="_blank">
-            <img
-                src="https://github.com/efrencodes/efrencodes/blob/master/assets/projects/project_dr_carlos_servin.png"
-                alt="Project - Dr Carlos Servin"
-                width="420"
-                height="280"
-            />
-    </a>
-</p>
 
 <br>
 <br>
