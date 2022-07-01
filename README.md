@@ -1,8 +1,8 @@
-## Hi there, I'm Efren Martinez. I'm Frontend Engineer
+## Hi there, I'm Efren Martinez. I'm Frontend Engineer, Gamer and Geek
 
 <p>
     <img
-        src="https://github.com/efrencodes/efrencodes/blob/master/assets/github-efrencodes-v3.jpg"
+        src="https://res.cloudinary.com/efrencodes/image/upload/v1656648544/efrenmartinez.dev/github-header_mf6h8r.jpg"
         alt="efrencodes"
         width="100%"
         height="300"
@@ -11,8 +11,6 @@
 
 <br>
 <br>
-
-**I build things for the web and drinking coffee** ☕
 
 Hey! I´m Efren Martinez a **Frontend Engineer** in Queretaro, Mexico 🇲🇽 with more than 6 years of experiencie.
 
@@ -61,8 +59,8 @@ I worked on different projects as Ecommerce, web applications, landings pages an
         href="https://store.bticino.com.mx/"
         target="_blank">
             <img
-                src="https://github.com/efrencodes/efrencodes/blob/master/assets/projects/project_bticino_store.png"
-                alt="Ecommerce Bticino México"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1654746894/efrenmartinez.dev/projects/project_bticino_store_na06wi.webp"
+                alt="Bticino Store"
                 width="420"
                 height="280"
             />
@@ -78,8 +76,18 @@ I worked on different projects as Ecommerce, web applications, landings pages an
         href="https://www.suzuki.com.mx/autos"
         target="_blank">
             <img
-                src="https://github.com/efrencodes/efrencodes/blob/master/assets/projects/project_suzuki.png"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1654746894/efrenmartinez.dev/projects/project_suzuki_f8uzdh.webp"
                 alt="Suzuki Mexico"
+                width="420"
+                height="280"
+            />
+    </a>
+    <a
+        href="https://www.occ.com.mx/empresas/"
+        target="_blank">
+            <img
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1656647919/efrenmartinez.dev/projects/occ-mundial_rgmlcr.webp"
+                alt="OCC Mundial"
                 width="420"
                 height="280"
             />
