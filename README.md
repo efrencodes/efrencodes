@@ -80,5 +80,3 @@ I worked on different projects as Ecommerce, web applications, landings pages an
 
 <br>
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrencodes&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
