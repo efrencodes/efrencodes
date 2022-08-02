@@ -2,15 +2,6 @@
 
 ⛄⛄⛄ I'm Frontend Engineer at OCC Mundial ⛄⛄⛄
 
-<p>
-    <img
-        src="https://res.cloudinary.com/efrencodes/image/upload/v1656648544/efrenmartinez.dev/github-header_mf6h8r.jpg"
-        alt="efrencodes"
-        width="100%"
-        height="300"
-    />
-</p>
-
 <br>
 <br>
 
@@ -34,14 +25,22 @@ I worked on different projects as Ecommerce, web applications, landings pages an
 
 ## ✨These are some of the projects I have built or collaborated on.
 
-### 👉 Ecommerce.
-
 <p align="center">
     <a
         href="https://store.bticino.com.mx/"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1654746894/efrenmartinez.dev/projects/project_bticino_store_na06wi.webp"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1658247340/efrencodes.ts/work/bticino-store.webp"
+                alt="Bticino Store"
+                width="420"
+                height="280"
+            />
+    </a>
+    <a
+        href="https://www.efrencodes.com"
+        target="_blank">
+            <img
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1659063057/efrencodes.ts/work/efrencodes.webp"
                 alt="Bticino Store"
                 width="420"
                 height="280"
@@ -51,14 +50,12 @@ I worked on different projects as Ecommerce, web applications, landings pages an
 <br>
 <br>
 
-### 👉 Web applications.
-
 <p align="center">
     <a
         href="https://www.suzuki.com.mx/autos"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1654746894/efrenmartinez.dev/projects/project_suzuki_f8uzdh.webp"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1658247333/efrencodes.ts/work/suzuki.webp"
                 alt="Suzuki Mexico"
                 width="420"
                 height="280"
@@ -68,7 +65,7 @@ I worked on different projects as Ecommerce, web applications, landings pages an
         href="https://www.occ.com.mx/empresas/"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1656647919/efrenmartinez.dev/projects/occ-mundial_rgmlcr.webp"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1658247350/efrencodes.ts/work/occ-mundial.webp"
                 alt="OCC Mundial"
                 width="420"
                 height="280"
