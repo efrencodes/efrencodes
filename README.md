@@ -5,8 +5,6 @@
 <br>
 <br>
 
-#### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=efrencodes)
-
 Hey! I´m Efren Martinez a **Frontend Engineer** in Queretaro, Mexico 🇲🇽 with more than 6 years of experiencie.
 
 With experience in 💚 **Vue.js**, 💙 **React.js**, 💛 **JavaScript**.
@@ -17,9 +15,9 @@ I worked on different projects as Ecommerce, web applications, landings pages an
 
 - ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
 - ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
-- ✨ [www.efrencodes.com](https://www.efrencodes.com/)
+- ✨ [www.efrencodes.com/](https://www.efrencodes.com/)
 - ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
-- ✨ [twitter.com/efrencodes](https://twitter.com/efrencodes)
+- ✨ [www.twitter.com/efrencodes](https://twitter.com/efrencodes)
 
 ## 📖 Last blog post
 
