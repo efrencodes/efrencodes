@@ -1,9 +1,11 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" height="24"></img>
 
-My name Efren Martinez and live in Queretaro City, Mexico, nice to meet you. 🇲🇽
-I am Developer Engineer specialised in 💛 JavaScript, 💙 React and Nextjs.
-I worked on different projects as Ecommerce, web applications, landings pages and api´s.
+My name Efren Martinez and live in Queretaro City, Mexico, nice to meet you. 🇲🇽 <br />
+I am Developer Engineer specialised in 💛 JavaScript, 💙 React and Nextjs. <br />
+I worked on different projects as Ecommerce, web applications, landings pages and api´s. <br />
 Now, learning English and play videogames in my free time
+<br />
+<br />
 
 ## 📫 How to contact me?
 
@@ -12,14 +14,15 @@ Now, learning English and play videogames in my free time
 - ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
 - ✨ [www.twitter.com/efrencodes](https://twitter.com/efrencodes)
 - ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
+  <br />
+  <br />
 
 ## 📖 Last blog post
 
 - [Stateless y stateful en Flutter](https://www.efrencodes.com/articulos/stateless-y-stateful-en-flutter)
 - [Cómo convertir un número a formato de moneda en JavaScript](https://www.efrencodes.com/articulos/cómo-convertir-un-número-a-formato-de-moneda-en-javascript)
-
-<br>
-<br>
+  <br>
+  <br>
 
 ## ✨These are some of the projects I have built or collaborated on.
 
