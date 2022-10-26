@@ -15,14 +15,8 @@ I worked on different projects as Ecommerce, web applications, landings pages an
 
 - ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
 - ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
-- ✨ [www.efrencodes.com/](https://www.efrencodes.com/)
 - ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
 - ✨ [www.twitter.com/efrencodes](https://twitter.com/efrencodes)
-
-## 📖 Last blog post
-
-- [Stateless y stateful en Flutter](https://www.efrencodes.com/articulos/stateless-y-stateful-en-flutter)
-- [Cómo convertir un número a formato de moneda en JavaScript](https://www.efrencodes.com/articulos/cómo-convertir-un-número-a-formato-de-moneda-en-javascript)
 
 <br>
 <br>
@@ -35,16 +29,6 @@ I worked on different projects as Ecommerce, web applications, landings pages an
         target="_blank">
             <img
                 src="https://res.cloudinary.com/efrencodes/image/upload/v1659818960/github.com/project/bticino-store.webp"
-                alt="Bticino Store"
-                width="400"
-                height="280"
-            />
-    </a>
-    <a
-        href="https://www.efrencodes.com"
-        target="_blank">
-            <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1659818960/github.com/project/efrencodes.webp"
                 alt="Bticino Store"
                 width="400"
                 height="280"
