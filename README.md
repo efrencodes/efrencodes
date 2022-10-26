@@ -1,25 +1,20 @@
-# Hi I'm Efren Martinez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" height="24"></img>
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" height="24"></img>
 
-⛄⛄⛄ I'm Frontend Engineer at OCC Mundial ⛄⛄⛄
-
-<br>
-<br>
-
-Hey! I´m Efren Martinez a **Frontend Engineer** in Queretaro, Mexico 🇲🇽 with more than 6 years of experiencie.
-
-With experience in 💚 **Vue.js**, 💙 **React.js**, 💛 **JavaScript**.
-
-I worked on different projects as Ecommerce, web applications, landings pages and api´s.
+My name Efren Martinez and live in Queretaro City, Mexico, nice to meet you. 🇲🇽 <br />
+I am Developer Engineer specialised in 💛 JavaScript, 💙 React and Nextjs. <br />
+I worked on different projects as Ecommerce, web applications, landings pages and api´s. <br />
+Now, learning English and play videogames in my free time
+<br />
+<br />
 
 ## 📫 How to contact me?
 
-- ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
 - ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
 - ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
 - ✨ [www.twitter.com/efrencodes](https://twitter.com/efrencodes)
-
-<br>
-<br>
+- ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
+  <br />
+  <br />
 
 ## ✨These are some of the projects I have built or collaborated on.
 
