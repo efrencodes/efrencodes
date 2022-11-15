@@ -9,6 +9,7 @@ Now, learning English and play videogames in my free time
 
 ## 📫 How to contact me?
 
+- ✨ [www.efrencodes.com](https://efrencodes.com)
 - ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
 - ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
 - ✨ [www.twitter.com/efrencodes](https://twitter.com/efrencodes)
@@ -23,8 +24,18 @@ Now, learning English and play videogames in my free time
         href="https://store.bticino.com.mx/"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1659818960/github.com/project/bticino-store.webp"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1668485401/www.efrencodes.com/project.ts/app-bticino-mexico.webp"
                 alt="Bticino Store"
+                width="400"
+                height="280"
+            />
+    </a>
+    <a
+        href="https://prueba-occ-pokemon.vercel.app/"
+        target="_blank">
+            <img
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1668485401/www.efrencodes.com/project.ts/app-pokemon.webp"
+                alt="Search Pokemon"
                 width="400"
                 height="280"
             />
@@ -35,7 +46,7 @@ Now, learning English and play videogames in my free time
         href="https://www.suzuki.com.mx/autos/"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1659818960/github.com/project/suzuki.webp"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1668485401/www.efrencodes.com/project.ts/app-suzuki-mexico.webp"
                 alt="Suzuki Mexico"
                 width="400"
                 height="280"
@@ -45,7 +56,7 @@ Now, learning English and play videogames in my free time
         href="https://www.occ.com.mx/empresas/"
         target="_blank">
             <img
-                src="https://res.cloudinary.com/efrencodes/image/upload/v1659818960/github.com/project/occ-mundial.webp"
+                src="https://res.cloudinary.com/efrencodes/image/upload/v1668485401/www.efrencodes.com/project.ts/app-occ-mundial.webp"
                 alt="OCC Mundial"
                 width="400"
                 height="280"
