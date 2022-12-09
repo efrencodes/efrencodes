@@ -13,7 +13,6 @@ Now, learning English and play videogames in my free time
 - ✨ [www.github.com/efrencodes](https://github.com/efrencodes)
 - ✨ [www.linkedin.com/in/efrencodes](https://www.linkedin.com/in/efrencodes/)
 - ✨ [www.twitter.com/efrencodes](https://twitter.com/efrencodes)
-- ✨ [efrencodes@gmail.com](mailto:efrencodes@gmail.com)
   <br />
   <br />
 
