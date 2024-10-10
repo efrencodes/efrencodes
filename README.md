@@ -6,13 +6,13 @@ I’m fluent in JavaScript, React, and Vue.js. I’ve also written a significant
 
 My current tech stack is:
 
-✨ Next.js
-✅ React
-⚫ TypeScript
-⛄ Styled Components / TailwindCSS
-⬜ REST API / GraphQL / Apollo Server
-❌ Git / GitHub
-⭐ Unit tests with Jest, React Testing Library
-⚡ E2E testing with Cypress
+* ✨ Next.js
+* ✅ React
+* ⚫ TypeScript
+* ⛄ Styled Components / TailwindCSS
+* ⬜ REST API / GraphQL / Apollo Server
+* ❌ Git / GitHub
+* ⭐ Unit tests with Jest, React Testing Library
+* ⚡ E2E testing with Cypress
 
 I’m quick at picking up new languages and tools as needed.
