@@ -15,4 +15,6 @@ My current tech stack is:
 * ⭐ Unit tests with Jest, React Testing Library
 * ⚡ E2E testing with Cypress
 
+🌱 Learning about UI/UX and Python.
+
 I’m quick at picking up new languages and tools as needed.
