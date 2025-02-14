@@ -13,6 +13,6 @@ I’m fluent in JavaScript, React, and Vue.js. I’ve also written a significant
 * Tools: 🔧 Git, GitHub, VSCode, Figma
 * Infrastructure: 📦 Docker
 
-In this year 2025, I want to learn about UI/UX, Python, and iOS.
+In this year 2025, I want to learn about UI/UX and mobile programming
 
 Happy coding! 🚀
