@@ -8,7 +8,7 @@ I’m fluent in JavaScript, React, and Vue.js. I’ve also written a significant
 
 * Frontend: ✨ HTML/CSS/JavaScript, Astro, Next.js, React, Vuejs, TailwindCSS, TypeScript
 * Backend: ⚡ PHP, GraphQL, Apollo Server
-* Mobile: 📱 React Native, Expo
+* Mobile: 📱 React Native, Expo, Zustand
 * Testing: ⭐ Unit tests with Jest, React Testing Library, E2E tests with Cypress
 * Tools: 🔧 Git, GitHub, VSCode, Figma
 * Infrastructure: 📦 Docker
