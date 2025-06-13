@@ -15,4 +15,4 @@ I’m fluent in JavaScript, React, and Vue.js. I’ve also written a significant
 
 In this year 2025, I want to learn about UI/UX and mobile programming
 
-Happy coding! 🚀
+Happy hacking! 🚀
