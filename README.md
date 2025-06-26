@@ -6,7 +6,7 @@ I’m fluent in JavaScript, React, and Vue.js. I’ve also written a significant
 
 ### My current tech stack includes:
 
-* Frontend: ✨ HTML/CSS/JavaScript, Astro, Next.js, React, Vuejs, TailwindCSS, TypeScript
+* Frontend: ✨ HTML/CSS/JavaScript, Astro, Next.js, React, Vuejs, TailwindCSS, TypeScript, SEO
 * Backend: ⚡ PHP, GraphQL, Apollo Server
 * Mobile: 📱 React Native, Expo, Zustand
 * Testing: ⭐ Unit tests with Jest, React Testing Library, E2E tests with Cypress
